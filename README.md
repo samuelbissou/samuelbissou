@@ -1,4 +1,4 @@
-<h1>Hi, I'm Samuel! <a href="https://www.linkedin.com/in/samuelbissou/">Cybersecurity Professional</a>
+<h1>Hi, I'm Samuel! <a href="https://www.linkedin.com/in/samuelbissou/">Security Engineer</a>
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
