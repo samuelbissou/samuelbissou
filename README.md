@@ -1,4 +1,4 @@
-<h1>Greetings! I'm <a href="https://www.linkedin.com/in/samuelbissou/">Samuel Bissou, <a href="https://www.linkedin.com/in/samuelbissou/">Software Engineer</a>
+<h1>Greetings! I'm <a href="https://www.linkedin.com/in/samuelbissou/">Samuel Bissou , Software Engineer</a>
 
 <h2>🔭 I’m currently working on:</h2>
 
