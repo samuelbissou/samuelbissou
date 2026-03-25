@@ -1,14 +1,20 @@
-<h1>Greetings!, I'm Samuel Bissou! <a href="https://www.linkedin.com/in/samuelbissou/">Security Engineer</a>
+<h1>Greetings!, I'm Samuel Bissou! <a href="https://www.linkedin.com/in/samuelbissou/">Software Engineer</a>
 
-<h2>👨‍💻Cybersecurity Projects:</h2>
+<h2>🔭 I’m currently working on:</h2>
 
+- [HBCU Rate My Professor](https://github.com/samuelbissou/hbcu-rate-my-professor)
 
-  - [Active Directory Home Lab](https://github.com/samuelbissou/LABURL)
+<h2>👨‍💻SWE Projects:</h2>
+
   - [Basic Python Keylogger](https://github.com/samuelbissou/python-keylogger.v1)
+  - [HBCU Rate My Professor](https://github.com/samuelbissou/hbcu-rate-my-professor)
+  - [Mental Health Navigator](https://github.com/samuelbissou/mental-health-navigator)
 
 <h2>Certifications</h2>
 
 - [Google Coursera Cybersecurity Cert](https://www.credly.com/badges/9a86c4fb-bd2a-405a-a3b1-7ff07ee0a17c/linked_in_profile)
+- [NVIDIA Deep Learning Fundamentals](https://www.linkedin.com/in/samuelbissou/overlay/Certifications/2140564989/treasury/?profileId=ACoAADdsaywBEuLzbRzMhAQjrzRQoWXk9STdJi4)
+
 
 <h2> 🤳 Connect with me:</h2>
 
